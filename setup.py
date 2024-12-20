@@ -42,7 +42,7 @@ tests_requires = [
     "pytest-localserver==0.5.0",
     "pytest==5.1.3",
     # lint/format/types
-    "black==19.10b0",
+    "black==24.3.0",
     "flake8==3.7.8",
     "pytype==2019.7.11",
     "isort==4.3.21",
