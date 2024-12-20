@@ -18,7 +18,7 @@ upload_requires = [
 ]
 
 install_requires = [
-    "torch==1.3.1",
+    "torch==2.2.0",
     "tqdm==4.43.0",
     "transformers==2.3.0",
     "numpy==1.16.3",
